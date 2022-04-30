@@ -83,7 +83,8 @@ $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
-$twitter-color              : #55acee;
+// $twitter-color              : #55acee;
+$twitter-color              : #000000;
 $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
@@ -92,8 +93,7 @@ $xing-color                 : #006567;
 
 /* links */
 $link-color                 : $info-color;
-// $link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-hover           : $link-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
 $masthead-link-color        : $primary-color;
 $masthead-link-color-hover  : mix(#000, $primary-color, 25%);
