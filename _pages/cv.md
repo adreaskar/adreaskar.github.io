@@ -32,16 +32,6 @@ to be uploaded.
 ---
 * **Cambridge English: First (FCE)** - Cambridge University Press & Assessment English
 
-## Skills
----
-* Node.js
-* JavaScript
-* Docker
-* Git
-* MongoDB
-* Python
-* Flask
-
 <!-- ## Publications
 ---
   <ul>{% for post in site.publications %}
