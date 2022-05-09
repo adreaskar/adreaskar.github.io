@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my page! My name is Andreas and here are a few things about me...
+Welcome to my page! My name is Andreas and here are a few things about me
