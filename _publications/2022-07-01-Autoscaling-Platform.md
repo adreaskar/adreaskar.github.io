@@ -2,13 +2,23 @@
 title: "An Autoscaling Platform supporting Graph Data Modelling Big Data Analytics"
 collection: publications
 permalink: /publication/2022-07-01-Autoscaling-Platform-ICIMTH-2022
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '<i>This paper describes a domain-agnostic single access autoscaling Big Data analytics platform, named Diastema.</i>'
 date: 2022-07-01
 venue: 'ICIMTH'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://ebooks.iospress.nl/doi/10.3233/SHTI220743'
+citation: 'Kiourtis, Athanasios, Panagiotis Karamolegkos, Andreas Karabetian, Konstantinos Voulgaris, Yannis Poulakis, Argyro Mavrogiorgou, and Dimosthenis Kyriazis. "An Autoscaling Platform Supporting Graph Data Modelling Big Data Analytics." Studies in Health Technology and Informatics 295 (2022): 376-379.'
 authors: 'Athanasios Kiourtis, Panagiotis Karamolegkos, <ins>Andreas Karabetian</ins>, Konstantinos Voulgaris, Yannis Poulakis, Argyro Mavrogiorgou, Dimosthenis Kyriazis'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<hr>
+Big Data has proved to be vast and complex, without being efficiently
+manageable through traditional architectures, whereas data analysis is considered
+crucial for both technical and non-technical stakeholders. Current analytics
+platforms are siloed for specific domains, whereas the requirements to enhance their
+use and lower their technicalities are continuously increasing. This paper describes
+a domain-agnostic single access autoscaling Big Data analytics platform, namely
+Diastema, as a collection of efficient and scalable components, offering user-
+friendly analytics through graph data modelling, supporting technical and non-
+technical stakeholders. Diastema’s applicability is evaluated in healthcare through a
+predicting classifier for a COVID19 dataset, considering real-world constraints.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://adreaskar.github.io/files/ICIMTH_2022.pdf)

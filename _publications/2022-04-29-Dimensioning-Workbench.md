@@ -2,13 +2,32 @@
 title: "An Environmentally-sustainable Dimensioning Workbench towards Dynamic Resource Allocation in Cloud-computing Environments"
 collection: publications
 permalink: /publication/2022-04-29-Dimensioning-Workbench-IISA-2022
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: '<i>The aim of this paper is to present a solution on dynamic resource allocation for efficient cloud scalability.</i>'
 date: 2022-07-18
 venue: 'IISA'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: ''
+citation: ''
 authors: '<ins>Andreas Karabetian</ins>, Athanasios Kiourtis, Konstantinos Voulgaris, Panagiotis Karamolegkos, Yannis Poulakis, Argyro Mavrogiorgou, Dimosthenis Kyriazis'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+<hr>
+With the exponential growth in data generated
+every year, Big Data has become one of the core research
+subjects in the overall computing domain. But when considering
+Big Data scenarios in a cloud-centric environment, the need for
+a resource management mechanism is of vital importance.
+Under those circumstances, intelligent allocation of resources
+can have a direct and noticeable impact on application
+performance. The aim of this paper is to present a solution on
+dynamic resource allocation for efficient cloud scalability. This
+is made possible by using machine learning algorithms as well
+as user feedback, in order to generate an adequate resource
+forecasting model. The efficiency of the tool is evaluated by
+repeatedly executing extensive analysis of various datasets
+provided by the end-users, exploiting the cloud computing
+paradigm for their analytic purposes. The given solution is able
+to learn and enhance its knowledge graph considering user
+feedback, as well as previously executed processes in our cloud
+environment. To this extent, the forecasting model will attempt
+to estimate optimal resource allocation for each user scenario.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://adreaskar.github.io/files/IISA_2022.pdf)
