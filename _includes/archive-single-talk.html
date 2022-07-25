@@ -33,10 +33,13 @@
       {% endif %}
     </h2>
     {% if post.read_time %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
+      <p class="page__meta"> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+    {% if post.date %}<p class="page__meta">{{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
+    {% if post.venue %}<p itemprop="description"> <strong>Venue:</strong> {{ post.venue }}</p> {% endif %}
+    {% if post.location %}<p itemprop="description">  <strong>Location:</strong> {{ post.location }}</p> {% endif %}
+    {% if post.type %}<p itemprop="description">  <strong>Tags:</strong> <span style="background-color: black;padding: 3px;border-radius: 5px;color: white;font-size: 12px;">{{post.type}}</span></p> {% endif %}
+    
+    <!-- {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %} -->
   </article>
 </div>
