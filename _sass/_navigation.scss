@@ -44,6 +44,14 @@
 
   li {
     display: inline;
+
+    a {
+      @include gradient(to bottom right, $list1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+    }
   }
 
   .current {
@@ -136,7 +144,12 @@
     border-radius: $border-radius;
 
     &:hover {
-      color: $link-color-hover;
+      @include gradient(left, $list1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+      //color: $link-color-hover;
     }
 
     &:first-child {
@@ -185,7 +198,12 @@
     text-decoration: none;
 
     &:hover {
-      color: $masthead-link-color-hover;
+      @include gradient(left, $list1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+      //color: $masthead-link-color-hover;
     }
   }
 
@@ -232,7 +250,11 @@
         left: 0;
         bottom: 0;
         height: 4px;
-        background: $info-color;
+        //background: $info-color;
+        background: -webkit-linear-gradient(left, $list1);
+        background: -moz-linear-gradient(left, $list1);
+        background: -o-linear-gradient(left, $list1);
+        background: linear-gradient(left, $list1);
         width: 100%;
         -webkit-transition: $global-transition;
         transition: $global-transition;
