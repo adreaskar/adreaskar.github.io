@@ -15,11 +15,18 @@
   }
 
   a {
-    text-decoration: underline;
+    //text-decoration: underline;
+
+    @include gradient(to bottom right, $list1);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+
+    position: relative;
 
     &:hover {
-      text-decoration: underline;
-
+      //text-decoration: underline;
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
       }
@@ -79,9 +86,9 @@
     box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
-  .archive__item-title {
-    text-decoration: underline;
-  }
+  // .archive__item-title {
+  //   text-decoration: underline;
+  // }
 }
 
 
