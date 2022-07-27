@@ -18,6 +18,13 @@ redirect_from:
       color: transparent;
   }
 
+  h3::selection {
+    background: rgba(255, 113, 24, 0.178);
+  }
+  h3::-moz-selection {
+    background: rgba(255, 113, 24, 0.178);
+  }
+
 </style>
 
 Welcome to my academic page! My name is Andreas and here are a few things about me:
