@@ -8,6 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+
+  h3 {
+    background: -webkit-linear-gradient(left, #fe515d, #f78f62);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      color: transparent;
+  }
+
+</style>
+
 Welcome to my academic page! My name is Andreas and here are a few things about me:
 
 🎓 I am an Undergraduate Student at the University of Piraeus, Department of Digital Systems. 
@@ -21,6 +33,6 @@ Some of the work that i have done at Diastema:
 ### Design and implementation of visual programming environments:
 Developed an interactive graphical environment where the user can create a high-level graph to describe an analytics workflow.
 
-### Data visualization
+### Data visualization:
 Research and implementation on adaptive and interactive data viasualization techniques.
 
