@@ -238,4 +238,11 @@
       text-decoration: underline;
     }
   }
+
+  a::selection {
+    background: black;
+  }
+  a::-moz-selection {
+    background: black;
+  }
 }

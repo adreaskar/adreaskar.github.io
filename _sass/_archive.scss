@@ -23,7 +23,7 @@
       background-clip: text;
       color: transparent;
 
-    position: relative;
+    //position: relative;
 
     &:hover {
       //text-decoration: underline;
@@ -32,6 +32,13 @@
       }
     }
   }
+}
+
+a::selection {
+  background: rgba(255, 113, 24, 0.178);
+}
+a::-moz-selection {
+  background: rgba(255, 113, 24, 0.178);
 }
 
 .archive__subtitle {
