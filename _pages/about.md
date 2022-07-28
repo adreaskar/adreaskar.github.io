@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
 
-  h3 {
+  article h3 {
     background: -webkit-linear-gradient(left, #fe515d, #f78f62);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
@@ -18,10 +18,10 @@ redirect_from:
       color: transparent;
   }
 
-  h3::selection {
+  article h3::selection {
     background: rgba(255, 113, 24, 0.178);
   }
-  h3::-moz-selection {
+  article h3::-moz-selection {
     background: rgba(255, 113, 24, 0.178);
   }
 

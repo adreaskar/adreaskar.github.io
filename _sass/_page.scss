@@ -118,16 +118,6 @@ header {
     }
   }
 
-  a::before {
-    content: "";
-    position: absolute;
-    top: 100%;
-    width: 100%;
-    left: 0;
-    height: 2px;
-    background: linear-gradient(111.3deg, $gd1 9.6%, $gd2 93.6%);
-  }
-
   dt {
     margin-top: 1em;
     font-family: $sans-serif;
