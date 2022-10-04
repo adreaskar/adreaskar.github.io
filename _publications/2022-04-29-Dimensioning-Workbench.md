@@ -5,8 +5,8 @@ permalink: /publication/2022-04-29-Dimensioning-Workbench-IISA-2022
 excerpt: '<i>The aim of this paper is to present a solution on dynamic resource allocation for efficient cloud scalability.</i>'
 date: 2022-07-18
 venue: 'IISA'
-paperurl: ''
-citation: ''
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9904367/'
+citation: 'A. Karabetian et al., "An Environmentally-sustainable Dimensioning Workbench towards Dynamic Resource Allocation in Cloud-computing Environments," 2022 13th International Conference on Information, Intelligence, Systems & Applications (IISA), 2022, pp. 1-4, doi: 10.1109/IISA56318.2022.9904367.'
 authors: '<ins>Andreas Karabetian</ins>, Athanasios Kiourtis, Konstantinos Voulgaris, Panagiotis Karamolegkos, Yannis Poulakis, Argyro Mavrogiorgou, Dimosthenis Kyriazis'
 ---
 <hr>
