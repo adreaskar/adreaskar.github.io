@@ -3,7 +3,7 @@ title: "An Autoscaling Platform supporting Graph Data Modelling Big Data Analyti
 collection: publications
 permalink: /publication/2022-07-01-Autoscaling-Platform-ICIMTH-2022
 excerpt: '<i>This paper describes a domain-agnostic single access autoscaling Big Data analytics platform, named Diastema.</i>'
-date: 2022-07-01
+date: 2022-06-01
 venue: 'ICIMTH'
 paperurl: 'https://ebooks.iospress.nl/doi/10.3233/SHTI220743'
 citation: 'Kiourtis, Athanasios, Panagiotis Karamolegkos, Andreas Karabetian, Konstantinos Voulgaris, Yannis Poulakis, Argyro Mavrogiorgou, and Dimosthenis Kyriazis. "An Autoscaling Platform Supporting Graph Data Modelling Big Data Analytics." Studies in Health Technology and Informatics 295 (2022): 376-379.'
