@@ -20,5 +20,3 @@ Diastema, as a collection of efficient and scalable components, offering user-
 friendly analytics through graph data modelling, supporting technical and non-
 technical stakeholders. Diastema’s applicability is evaluated in healthcare through a
 predicting classifier for a COVID19 dataset, considering real-world constraints.
-
-[Download paper here](https://adreaskar.github.io/files/ICIMTH_2022.pdf)

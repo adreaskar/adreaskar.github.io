@@ -29,5 +29,3 @@ to learn and enhance its knowledge graph considering user
 feedback, as well as previously executed processes in our cloud
 environment. To this extent, the forecasting model will attempt
 to estimate optimal resource allocation for each user scenario.
-
-[Download paper here](https://adreaskar.github.io/files/IISA_2022.pdf)
