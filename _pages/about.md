@@ -29,16 +29,18 @@ redirect_from:
 
 Welcome to my academic page! My name is Andreas and here are a few things about me:
 
-🎓 I am an Undergraduate Student at the University of Piraeus, Department of Digital Systems. 
+🎓 I am an Student at the University of Piraeus, Department of Digital Systems. 
 
 👨‍💻 My main interests are based on the design and development of web applications. 
 
-🌐 I am currently participating in the project [Diastema](https://diastema.gr) (Data-oriented technology infrastructure for the management and development of big data applications) as a Technical Developer – Research Assistant for the University of Piraeus.
+🌐 I have participated in the research project [Diastema](https://diastema.gr) (Data-oriented technology infrastructure for the management and development of big data applications) as a Technical Developer – Research Assistant for the University of Piraeus. [2020 - 2023]
 
-Some of the work that i have done at Diastema:
+🏛️ I am currently participating in the [AI4Gov](https://ai4gov-project.eu/) research project, as a Technical Developer – Research Assistant. [2023 - Present]
+
+Some of the work that i have done:
 
 ### Design and implementation of visual programming environments:
-Developed an interactive graphical environment where the user can create a high-level graph to describe an analytics workflow.
+Developed a visual programming environment where the user can create a high-level graph to describe an analytics workflow, or a complex mathematical function.
 
 ### Data visualization:
 Research and implementation on adaptive and interactive data viasualization techniques.
